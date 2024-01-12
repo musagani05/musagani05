@@ -1,5 +1,6 @@
 **I am a pre-clinical medical student who has an interest in machine learning and data science.**
 
+contact me on musaganirahman@mail.ugm.ac.id
 <!--
 **musagani05/musagani05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
