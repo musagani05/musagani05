@@ -2,7 +2,7 @@
 
 contact me on musaganirahman@mail.ugm.ac.id
 
-I'm currently learning
+I'm currently learning:
 - Convolutional Neural Network using Python
 - Web Programming using HTML, CSS, JS
 <!--
