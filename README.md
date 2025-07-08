@@ -3,8 +3,7 @@
 contact me on musaganirahman@mail.ugm.ac.id
 
 I'm currently learning:
-- Convolutional Neural Network using Python
-- Web Programming using HTML, CSS, JS
+E V E R Y T H I N G
 <!--
 **musagani05/musagani05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
